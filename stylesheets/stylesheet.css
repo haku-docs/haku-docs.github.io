@@ -64,9 +64,9 @@ a:hover {
 }
 
 header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -136,18 +136,13 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
-  position: absolute;
-  right: 0;
-  top: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
+
 aside a.button {
   width: 138px;
   padding-left: 64px;
@@ -215,17 +210,11 @@ td {
   font-weight: 300;
 }
 
-form {
-  background: #f2f2f2;
-  padding: 20px;
-
-}
-
 
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #474747;
@@ -239,7 +228,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -253,7 +242,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -269,7 +258,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-weight: bold;
   color: #474747;
@@ -283,7 +272,7 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #474747;
 }
@@ -295,7 +284,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: .8em;
   color: #474747;
 }
